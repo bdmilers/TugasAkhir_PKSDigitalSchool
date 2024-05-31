@@ -1,2 +1,6 @@
-# TugasAkhir_PKSDigitalSchool
-Tugas Akhir ini merupakan projek individu sebagai syarat lulus dari PKS Digital School program Data Science Basic. Tugas ini berisi 8 soal yang disusun secara struktural untuk memandu peserta mengerjakan projek Data Science utuh yang pada kasus ini menggunakan model Clustering sederhana. 
+# Customers Clustering
+Supermarket saat ini telah banyak bermunculan. Tidak hanya supermarket besar seperti Carefour dan Transmart. Pada lingkungan perumahan, supermarket skala kecil seperti alfamart dan indomaret juga banyak ditemukan. Sebab semakin menjamurnya bisnis supermarket, industri ini kini jauh lebih kompetitif untuk merebut pangsa pasar.
+
+Agar tetap unggul, manajemen supermarket perlu memanfaatkan kekuatan analisis data untuk lebih memahami performa bisnis, sehingga pelayanan optimal kepada pelanggan dapat diberikan. Salah satu aspek yang dapat dianalisis adalah karakteristik pelanggan. Pelanggan tentuntunya dapat sangat beragam. Namun dengan teknik analisis yang tepat seperti Clustering, manajemen supermarket dapat memahami mereka dengan lebih baik.
+
+Pada kasus ini, manajemen supermarket meminta tim data analis untuk membuat produk analisis yang bertujuan agar manajemen memahami segmentasi pelanggan berdasarkan skor belanja dan usia pelanggan. Segmentasi yang berhasil diidentifikasi dapat mendorong manajemen untuk mengembangkan strategi promosi yang dipersonalisasi dan penawaran produk yang disesuaikan dengan karakteristik setiap segmen. Akhirnya, pendekatan ini akan mengarah pada peningkatan kepuasan pelanggan, loyalitas, dan berefek langsung pada peningkatan omzet supermarket.
