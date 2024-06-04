@@ -1,2 +1,2 @@
-# Customer Clustering, Make a Better Customer Approach and Service
+# Customer Clustering, Make Customer Approach and Service Better
 Supermarket management wants to develop a more personalized approach and service to customers, but has difficulty understanding customer segmentation. Therefore, management asked the Data Analyst team to create a customer segmentation analysis, as well as a description of the characteristics of each segment. I used the Clustering method to execute the task, as well as applied EDA to understand the characteristics of each customer cluster. Finally, there are 3 clusters based on Age and Shopping Score accompanied by characteristics and recommended approaches to each cluster.
